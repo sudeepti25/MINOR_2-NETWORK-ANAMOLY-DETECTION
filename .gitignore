@@ -4,3 +4,4 @@ PREPROCESSING/processed_cicids2017.csv
 PREPROCESSING/scaler.pkl
 MODELS/autoencoder.h5
 TRAINING/encoded_network_features.csv
+/MODELS
